@@ -16,7 +16,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий или скачайте файлы
-git clone <your-repo-url>
+git clone https://github.com/Gaan-Dmitry/MidiGen.git
 cd json-to-midi
 
 # 2. Установите зависимости
