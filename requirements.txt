@@ -1,0 +1,4 @@
+midiutil==1.2.1
+customtkinter==5.2.2
+# Если решишь делать веб-интерфейс вместо десктопного, замени customtkinter на:
+# streamlit
