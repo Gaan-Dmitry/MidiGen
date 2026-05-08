@@ -17,7 +17,7 @@
 ```bash
 # 1. Клонируйте репозиторий или скачайте файлы
 git clone https://github.com/Gaan-Dmitry/MidiGen.git
-cd json-to-midi
+cd MidiGen
 
 # 2. Установите зависимости
 pip install -r requirements.txt
